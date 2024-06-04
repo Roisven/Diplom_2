@@ -1,0 +1,1 @@
+{"password":"new_user_test12345","name":"new_user_test","email":"new_user_test@ya.ru"}
