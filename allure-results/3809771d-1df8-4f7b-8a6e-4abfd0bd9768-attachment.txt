@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NWY1OTQ4OWVkMjgwMDAxYjQyOGFjNiIsImlhdCI6MTcxNzk2MDQ5MywiZXhwIjoxNzE3OTYxNjkzfQ.e0g0d_aQO2nEDUdXqSRi_CvESaECfoPHyhbHATZbR9U",
+    "refreshToken": "2f155ca09e8fc5f37552a5b856a0dbb51002d306ca95d3491eec7e96ffe5a803dbbcc64706f3b277",
+    "user": {
+        "email": "aloxart@yandex.ru",
+        "name": "Rois"
+    }
+}
